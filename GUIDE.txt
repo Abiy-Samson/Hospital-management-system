@@ -1,0 +1,15 @@
+Functionalities
+===============
+- Laboratory Management
+- Patient Registration
+- Keep Track of Patient Electronic Health Record History
+- Pharmacy Management
+- X-Ray Management
+
+Steps
+=====
+1. Create the database. It is in the 'sql' folder.
+2. Check your database configuration in 'application/configs/database.php'.
+3. Now you can browse the web application.
+4. To sign up for a user account, change your browser location to 'http://localhost/labmgmt/index.php/account/signup'. Make sure that the first user to register must be of role admin.
+
